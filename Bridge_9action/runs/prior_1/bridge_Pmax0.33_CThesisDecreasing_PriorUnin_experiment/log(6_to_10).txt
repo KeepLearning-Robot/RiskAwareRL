@@ -1,0 +1,115 @@
+Folder: /content/gdrive/MyDrive/Risk_Aware_RL/runs/20230807_132942
+
+#############################
+safe_padding: True
+number_of_runs: 500
+max_iterations: 400
+discount_factor_Q: 0.9
+alpha: 0.85
+observation_radius: 2
+temp: 0.005
+prior_choice: Uninformative Prior
+critical_threshold: 0.33
+choice_of_C: ThesisDecreasing
+#############################
+
+You want 5 tests.
+Breakpoint will be saved every 100 steps
+
+-------- Experiment (1 of 5) ---------
+Name: bridge_Pmax0.33_CThesisDecreasing_PriorUnin_experiment6
+
+Saving breakpoint @ experiment number <6> | run <100>
+
+Saving breakpoint @ experiment number <6> | run <200>
+
+Saving breakpoint @ experiment number <6> | run <300>
+
+Saving breakpoint @ experiment number <6> | run <400>
+
+Saving breakpoint @ experiment number <6> | run <500>
+Time Elapsed: 17277.22 secs (287.95 mins)
+Number of Successes: 1
+Number of Failures: 406
+
+Training Completed.
+Ending experiment number <6>
+
+-------- Experiment (2 of 5) ---------
+Name: bridge_Pmax0.33_CThesisDecreasing_PriorUnin_experiment7
+
+Saving breakpoint @ experiment number <7> | run <100>
+
+Saving breakpoint @ experiment number <7> | run <200>
+
+Saving breakpoint @ experiment number <7> | run <300>
+
+Saving breakpoint @ experiment number <7> | run <400>
+
+Saving breakpoint @ experiment number <7> | run <500>
+Time Elapsed: 4855.88 secs (80.93 mins)
+Number of Successes: 435
+Number of Failures: 49
+
+Training Completed.
+Ending experiment number <7>
+
+-------- Experiment (3 of 5) ---------
+Name: bridge_Pmax0.33_CThesisDecreasing_PriorUnin_experiment8
+
+Saving breakpoint @ experiment number <8> | run <100>
+
+Saving breakpoint @ experiment number <8> | run <200>
+
+Saving breakpoint @ experiment number <8> | run <300>
+
+Saving breakpoint @ experiment number <8> | run <400>
+
+Saving breakpoint @ experiment number <8> | run <500>
+Time Elapsed: 8281.33 secs (138.02 mins)
+Number of Successes: 259
+Number of Failures: 207
+
+Training Completed.
+Ending experiment number <8>
+
+-------- Experiment (4 of 5) ---------
+Name: bridge_Pmax0.33_CThesisDecreasing_PriorUnin_experiment9
+
+Saving breakpoint @ experiment number <9> | run <100>
+
+Saving breakpoint @ experiment number <9> | run <200>
+
+Saving breakpoint @ experiment number <9> | run <300>
+
+Saving breakpoint @ experiment number <9> | run <400>
+
+Saving breakpoint @ experiment number <9> | run <500>
+Time Elapsed: 4465.94 secs (74.43 mins)
+Number of Successes: 382
+Number of Failures: 115
+
+Training Completed.
+Ending experiment number <9>
+
+-------- Experiment (5 of 5) ---------
+Name: bridge_Pmax0.33_CThesisDecreasing_PriorUnin_experiment10
+
+Saving breakpoint @ experiment number <10> | run <100>
+
+Saving breakpoint @ experiment number <10> | run <200>
+
+Saving breakpoint @ experiment number <10> | run <300>
+
+Saving breakpoint @ experiment number <10> | run <400>
+
+Saving breakpoint @ experiment number <10> | run <500>
+Time Elapsed: 6592.14 secs (109.87 mins)
+Number of Successes: 363
+Number of Failures: 111
+
+Training Completed.
+Ending experiment number <10>
+
+-------- Experiment (6 of 5) ---------
+Name: bridge_Pmax0.33_CThesisDecreasing_PriorUnin_experiment11

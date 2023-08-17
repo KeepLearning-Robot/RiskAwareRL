@@ -1,0 +1,58 @@
+Current time: 20230810_174628
+
+#############################
+safe_padding: True
+number_of_runs: 1500
+max_iterations: 400
+discount_factor_Q: 0.9
+alpha: 0.85
+observation_radius: 2
+temp: 0.005
+prior_choice: Uninformative Prior
+critical_threshold: 0.01
+choice_of_C: ThesisDecreasing
+#############################
+
+
+You want 1 tests.
+Breakpoint will be saved every 100 steps
+Starting Experiment...
+
+-------- Experiment (1 of 1) ---------
+Name: bridge_Pmax0.01_CThesisDecreasing_PriorUnin_experiment9
+
+Saving breakpoint @ experiment number <9> | run <100>
+
+Saving breakpoint @ experiment number <9> | run <200>
+
+Saving breakpoint @ experiment number <9> | run <300>
+
+Saving breakpoint @ experiment number <9> | run <400>
+
+Saving breakpoint @ experiment number <9> | run <500>
+
+Saving breakpoint @ experiment number <9> | run <600>
+
+Saving breakpoint @ experiment number <9> | run <700>
+
+Saving breakpoint @ experiment number <9> | run <800>
+
+Saving breakpoint @ experiment number <9> | run <900>
+
+Saving breakpoint @ experiment number <9> | run <1000>
+
+Saving breakpoint @ experiment number <9> | run <1100>
+
+Saving breakpoint @ experiment number <9> | run <1200>
+
+Saving breakpoint @ experiment number <9> | run <1300>
+
+Saving breakpoint @ experiment number <9> | run <1400>
+
+Saving breakpoint @ experiment number <9> | run <1500>
+Time Elapsed: 34414.07 secs (573.57 mins)
+Number of Successes: 3
+Number of Failures: 497
+
+Training Completed.
+Ending experiment number <9>

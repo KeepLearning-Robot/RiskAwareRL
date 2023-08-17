@@ -1,0 +1,56 @@
+Folder: /content/gdrive/MyDrive/Risk_Aware_RL/runs/prior_1/1runs_(11_to_11)_bridge_Pmax0.01_CThesisDecreasing_PriorUnin_experiment_20230810_133255
+
+#############################
+safe_padding: True
+number_of_runs: 1500
+max_iterations: 400
+discount_factor_Q: 0.9
+alpha: 0.85
+observation_radius: 2
+temp: 0.005
+prior_choice: Uninformative Prior
+critical_threshold: 0.01
+choice_of_C: ThesisDecreasing
+#############################
+
+You want 1 tests.
+Breakpoint will be saved every 100 steps
+
+-------- Experiment (1 of 1) ---------
+Name: bridge_Pmax0.01_CThesisDecreasing_PriorUnin_experiment11
+
+Saving breakpoint @ experiment number <11> | run <100>
+
+Saving breakpoint @ experiment number <11> | run <200>
+
+Saving breakpoint @ experiment number <11> | run <300>
+
+Saving breakpoint @ experiment number <11> | run <400>
+
+Saving breakpoint @ experiment number <11> | run <500>
+
+Saving breakpoint @ experiment number <11> | run <600>
+
+Saving breakpoint @ experiment number <11> | run <700>
+
+Saving breakpoint @ experiment number <11> | run <800>
+
+Saving breakpoint @ experiment number <11> | run <900>
+
+Saving breakpoint @ experiment number <11> | run <1000>
+
+Saving breakpoint @ experiment number <11> | run <1100>
+
+Saving breakpoint @ experiment number <11> | run <1200>
+
+Saving breakpoint @ experiment number <11> | run <1300>
+
+Saving breakpoint @ experiment number <11> | run <1400>
+
+Saving breakpoint @ experiment number <11> | run <1500>
+Time Elapsed: 83664.97 secs (1394.42 mins)
+Number of Successes: 0
+Number of Failures: 868
+
+Training Completed.
+Ending experiment number <11>

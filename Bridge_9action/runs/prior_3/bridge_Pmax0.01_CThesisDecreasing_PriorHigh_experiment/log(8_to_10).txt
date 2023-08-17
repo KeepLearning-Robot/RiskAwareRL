@@ -1,0 +1,76 @@
+Current time: 20230808_061654
+
+#############################
+safe_padding: True
+number_of_runs: 500
+max_iterations: 400
+discount_factor_Q: 0.9
+alpha: 0.85
+observation_radius: 2
+temp: 0.005
+prior_choice: High Informative Prior
+critical_threshold: 0.01
+choice_of_C: ThesisDecreasing
+#############################
+
+
+You want 3 tests.
+Breakpoint will be saved every 100 steps
+Starting Experiment...
+
+-------- Experiment (1 of 3) ---------
+Name: bridge_Pmax0.01_CThesisDecreasing_PriorHigh_experiment8
+
+Saving breakpoint @ experiment number <8> | run <100>
+
+Saving breakpoint @ experiment number <8> | run <200>
+
+Saving breakpoint @ experiment number <8> | run <300>
+
+Saving breakpoint @ experiment number <8> | run <400>
+
+Saving breakpoint @ experiment number <8> | run <500>
+Time Elapsed: 3186.33 secs (53.11 mins)
+Number of Successes: 477
+Number of Failures: 4
+
+Training Completed.
+Ending experiment number <8>
+
+-------- Experiment (2 of 3) ---------
+Name: bridge_Pmax0.01_CThesisDecreasing_PriorHigh_experiment9
+
+Saving breakpoint @ experiment number <9> | run <100>
+
+Saving breakpoint @ experiment number <9> | run <200>
+
+Saving breakpoint @ experiment number <9> | run <300>
+
+Saving breakpoint @ experiment number <9> | run <400>
+
+Saving breakpoint @ experiment number <9> | run <500>
+Time Elapsed: 3966.13 secs (66.10 mins)
+Number of Successes: 461
+Number of Failures: 2
+
+Training Completed.
+Ending experiment number <9>
+
+-------- Experiment (3 of 3) ---------
+Name: bridge_Pmax0.01_CThesisDecreasing_PriorHigh_experiment10
+
+Saving breakpoint @ experiment number <10> | run <100>
+
+Saving breakpoint @ experiment number <10> | run <200>
+
+Saving breakpoint @ experiment number <10> | run <300>
+
+Saving breakpoint @ experiment number <10> | run <400>
+
+Saving breakpoint @ experiment number <10> | run <500>
+Time Elapsed: 3337.09 secs (55.62 mins)
+Number of Successes: 450
+Number of Failures: 3
+
+Training Completed.
+Ending experiment number <10>

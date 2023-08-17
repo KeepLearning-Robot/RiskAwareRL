@@ -1,0 +1,55 @@
+Folder: /content/gdrive/MyDrive/Risk_Aware_RL/runs/20230808_103457
+
+#############################
+safe_padding: True
+number_of_runs: 500
+max_iterations: 400
+discount_factor_Q: 0.9
+alpha: 0.85
+observation_radius: 2
+temp: 0.005
+prior_choice: Medium Informative Prior
+critical_threshold: 0.01
+choice_of_C: ThesisDecreasing
+#############################
+
+You want 2 tests.
+Breakpoint will be saved every 100 steps
+
+-------- Experiment (1 of 2) ---------
+Name: bridge_Pmax0.01_CThesisDecreasing_PriorMedi_experiment4
+
+Saving breakpoint @ experiment number <4> | run <100>
+
+Saving breakpoint @ experiment number <4> | run <200>
+
+Saving breakpoint @ experiment number <4> | run <300>
+
+Saving breakpoint @ experiment number <4> | run <400>
+
+Saving breakpoint @ experiment number <4> | run <500>
+Time Elapsed: 36258.12 secs (604.30 mins)
+Number of Successes: 0
+Number of Failures: 3
+
+Training Completed.
+Ending experiment number <4>
+
+-------- Experiment (2 of 2) ---------
+Name: bridge_Pmax0.01_CThesisDecreasing_PriorMedi_experiment5
+
+Saving breakpoint @ experiment number <5> | run <100>
+
+Saving breakpoint @ experiment number <5> | run <200>
+
+Saving breakpoint @ experiment number <5> | run <300>
+
+Saving breakpoint @ experiment number <5> | run <400>
+
+Saving breakpoint @ experiment number <5> | run <500>
+Time Elapsed: 34869.17 secs (581.15 mins)
+Number of Successes: 2
+Number of Failures: 12
+
+Training Completed.
+Ending experiment number <5>

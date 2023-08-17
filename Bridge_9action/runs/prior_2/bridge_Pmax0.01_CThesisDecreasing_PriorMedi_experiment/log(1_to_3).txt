@@ -1,0 +1,81 @@
+Folder: /content/gdrive/MyDrive/Risk_Aware_RL/runs/20230807_092408
+
+#############################
+safe_padding: True
+number_of_runs: 500
+max_iterations: 400
+discount_factor_Q: 0.9
+alpha: 0.85
+observation_radius: 2
+temp: 0.005
+prior_choice: Medium Informative Prior
+critical_threshold: 0.01
+choice_of_C: ThesisDecreasing
+#############################
+
+You want 5 tests.
+Breakpoint will be saved every 100 steps
+
+-------- Experiment (1 of 5) ---------
+Name: bridge_Pmax0.01_CThesisDecreasing_PriorMedi_experiment1
+
+Saving breakpoint @ experiment number <1> | run <100>
+
+Saving breakpoint @ experiment number <1> | run <200>
+
+Saving breakpoint @ experiment number <1> | run <300>
+
+Saving breakpoint @ experiment number <1> | run <400>
+
+Saving breakpoint @ experiment number <1> | run <500>
+Time Elapsed: 24915.75 secs (415.26 mins)
+Number of Successes: 4
+Number of Failures: 21
+
+Training Completed.
+Ending experiment number <1>
+
+-------- Experiment (2 of 5) ---------
+Name: bridge_Pmax0.01_CThesisDecreasing_PriorMedi_experiment2
+
+Saving breakpoint @ experiment number <2> | run <100>
+
+Saving breakpoint @ experiment number <2> | run <200>
+
+Saving breakpoint @ experiment number <2> | run <300>
+
+Saving breakpoint @ experiment number <2> | run <400>
+
+Saving breakpoint @ experiment number <2> | run <500>
+Time Elapsed: 24756.60 secs (412.61 mins)
+Number of Successes: 0
+Number of Failures: 9
+
+Training Completed.
+Ending experiment number <2>
+
+-------- Experiment (3 of 5) ---------
+Name: bridge_Pmax0.01_CThesisDecreasing_PriorMedi_experiment3
+
+Saving breakpoint @ experiment number <3> | run <100>
+
+Saving breakpoint @ experiment number <3> | run <200>
+
+Saving breakpoint @ experiment number <3> | run <300>
+
+Saving breakpoint @ experiment number <3> | run <400>
+
+Saving breakpoint @ experiment number <3> | run <500>
+Time Elapsed: 24596.46 secs (409.94 mins)
+Number of Successes: 0
+Number of Failures: 22
+
+Training Completed.
+Ending experiment number <3>
+
+-------- Experiment (4 of 5) ---------
+Name: bridge_Pmax0.01_CThesisDecreasing_PriorMedi_experiment4
+
+Saving breakpoint @ experiment number <4> | run <100>
+
+Saving breakpoint @ experiment number <4> | run <200>

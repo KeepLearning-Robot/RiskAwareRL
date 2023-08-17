@@ -1,0 +1,30 @@
+bridge_Pmax0.33_CThesisDecreasing_PriorUnin_averageExperiment1to10
+Successes: 404.3
+Failures: 54.2
+Total: 500
+
+bridge_Pmax0.01_CThesisDecreasing_PriorUnin_averageExperiment1to10
+Successes: 506.0
+Failures: 417.9
+Total: 1500
+
+bridge_Pmax0.01_CThesisDecreasing_PriorMedi_averageExperiment1to10
+Successes: 384.6
+Failures: 0.5
+Total: 500
+
+bridge_Pmax0.01_CThesisDecreasing_PriorHigh_averageExperiment1to10
+Successes: 407.4
+Failures: 14.4
+Total: 500
+
+bridge_Pmax0.0033_CThesisDecreasing_PriorHigh_averageExperiment1to10
+Successes: 421.3
+Failures: 1.1
+Total: 500
+
+Q-LEARNING: bridge_Pmax0_CThesisDecreasing_PriorUnin_averageExperiment1to10
+Successes: 414.6
+Failures: 990.5
+Total: 1500
+

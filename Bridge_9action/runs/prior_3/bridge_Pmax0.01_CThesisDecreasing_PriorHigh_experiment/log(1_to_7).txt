@@ -1,0 +1,157 @@
+Current time: 20230807_103338
+
+#############################
+safe_padding: True
+number_of_runs: 500
+max_iterations: 400
+discount_factor_Q: 0.9
+alpha: 0.85
+observation_radius: 2
+temp: 0.005
+prior_choice: High Informative Prior
+critical_threshold: 0.01
+choice_of_C: ThesisDecreasing
+#############################
+
+
+You want 10 tests.
+Breakpoint will be saved every 100 steps
+Starting Experiment...
+
+-------- Experiment (1 of 10) ---------
+Name: bridge_Pmax0.01_CThesisDecreasing_PriorHigh_experiment1
+
+Saving breakpoint @ experiment number <1> | run <100>
+
+Saving breakpoint @ experiment number <1> | run <200>
+
+Saving breakpoint @ experiment number <1> | run <300>
+
+Saving breakpoint @ experiment number <1> | run <400>
+
+Saving breakpoint @ experiment number <1> | run <500>
+Time Elapsed: 4400.79 secs (73.35 mins)
+Number of Successes: 470
+Number of Failures: 2
+
+Training Completed.
+Ending experiment number <1>
+
+-------- Experiment (2 of 10) ---------
+Name: bridge_Pmax0.01_CThesisDecreasing_PriorHigh_experiment2
+
+Saving breakpoint @ experiment number <2> | run <100>
+
+Saving breakpoint @ experiment number <2> | run <200>
+
+Saving breakpoint @ experiment number <2> | run <300>
+
+Saving breakpoint @ experiment number <2> | run <400>
+
+Saving breakpoint @ experiment number <2> | run <500>
+Time Elapsed: 11610.02 secs (193.50 mins)
+Number of Successes: 351
+Number of Failures: 6
+
+Training Completed.
+Ending experiment number <2>
+
+-------- Experiment (3 of 10) ---------
+Name: bridge_Pmax0.01_CThesisDecreasing_PriorHigh_experiment3
+
+Saving breakpoint @ experiment number <3> | run <100>
+
+Saving breakpoint @ experiment number <3> | run <200>
+
+Saving breakpoint @ experiment number <3> | run <300>
+
+Saving breakpoint @ experiment number <3> | run <400>
+
+Saving breakpoint @ experiment number <3> | run <500>
+Time Elapsed: 5850.64 secs (97.51 mins)
+Number of Successes: 436
+Number of Failures: 5
+
+Training Completed.
+Ending experiment number <3>
+
+-------- Experiment (4 of 10) ---------
+Name: bridge_Pmax0.01_CThesisDecreasing_PriorHigh_experiment4
+
+Saving breakpoint @ experiment number <4> | run <100>
+
+Saving breakpoint @ experiment number <4> | run <200>
+
+Saving breakpoint @ experiment number <4> | run <300>
+
+Saving breakpoint @ experiment number <4> | run <400>
+
+Saving breakpoint @ experiment number <4> | run <500>
+Time Elapsed: 4574.60 secs (76.24 mins)
+Number of Successes: 440
+Number of Failures: 5
+
+Training Completed.
+Ending experiment number <4>
+
+-------- Experiment (5 of 10) ---------
+Name: bridge_Pmax0.01_CThesisDecreasing_PriorHigh_experiment5
+
+Saving breakpoint @ experiment number <5> | run <100>
+
+Saving breakpoint @ experiment number <5> | run <200>
+
+Saving breakpoint @ experiment number <5> | run <300>
+
+Saving breakpoint @ experiment number <5> | run <400>
+
+Saving breakpoint @ experiment number <5> | run <500>
+Time Elapsed: 4174.15 secs (69.57 mins)
+Number of Successes: 452
+Number of Failures: 1
+
+Training Completed.
+Ending experiment number <5>
+
+-------- Experiment (6 of 10) ---------
+Name: bridge_Pmax0.01_CThesisDecreasing_PriorHigh_experiment6
+
+Saving breakpoint @ experiment number <6> | run <100>
+
+Saving breakpoint @ experiment number <6> | run <200>
+
+Saving breakpoint @ experiment number <6> | run <300>
+
+Saving breakpoint @ experiment number <6> | run <400>
+
+Saving breakpoint @ experiment number <6> | run <500>
+Time Elapsed: 6510.77 secs (108.51 mins)
+Number of Successes: 375
+Number of Failures: 106
+
+Training Completed.
+Ending experiment number <6>
+
+-------- Experiment (7 of 10) ---------
+Name: bridge_Pmax0.01_CThesisDecreasing_PriorHigh_experiment7
+
+Saving breakpoint @ experiment number <7> | run <100>
+
+Saving breakpoint @ experiment number <7> | run <200>
+
+Saving breakpoint @ experiment number <7> | run <300>
+
+Saving breakpoint @ experiment number <7> | run <400>
+
+Saving breakpoint @ experiment number <7> | run <500>
+Time Elapsed: 28276.78 secs (471.28 mins)
+Number of Successes: 5
+Number of Failures: 20
+
+Training Completed.
+Ending experiment number <7>
+
+-------- Experiment (8 of 10) ---------
+Name: bridge_Pmax0.01_CThesisDecreasing_PriorHigh_experiment8
+
+Saving breakpoint @ experiment number <8> | run <100>

@@ -1,0 +1,207 @@
+Folder: /content/gdrive/MyDrive/Risk_Aware_RL/runs_5action/prior_2/bridge_5action_Pmax0.33_CThesisDecreasing_PriorMedi_experiment20230809_162259
+
+#############################
+safe_padding: True
+number_of_runs: 500
+max_iterations: 400
+discount_factor_Q: 0.9
+alpha: 0.85
+observation_radius: 2
+temp: 0.005
+prior_choice: Medium Informative Prior
+critical_threshold: 0.33
+choice_of_C: ThesisDecreasing
+#############################
+
+You want 10 tests.
+Breakpoint will be saved every 100 steps
+
+-------- Experiment (1 of 10) ---------
+Name: bridge_5action_Pmax0.33_CThesisDecreasing_PriorMedi_experiment1
+
+Saving breakpoint @ experiment number <1> | run <100>
+
+Saving breakpoint @ experiment number <1> | run <200>
+
+Saving breakpoint @ experiment number <1> | run <300>
+
+Saving breakpoint @ experiment number <1> | run <400>
+
+Saving breakpoint @ experiment number <1> | run <500>
+Time Elapsed: 1193.61 secs (19.89 mins)
+Number of Successes: 406
+Number of Failures: 39
+
+Training Completed.
+Ending experiment number <1>
+
+-------- Experiment (2 of 10) ---------
+Name: bridge_5action_Pmax0.33_CThesisDecreasing_PriorMedi_experiment2
+
+Saving breakpoint @ experiment number <2> | run <100>
+
+Saving breakpoint @ experiment number <2> | run <200>
+
+Saving breakpoint @ experiment number <2> | run <300>
+
+Saving breakpoint @ experiment number <2> | run <400>
+
+Saving breakpoint @ experiment number <2> | run <500>
+Time Elapsed: 1019.36 secs (16.99 mins)
+Number of Successes: 431
+Number of Failures: 29
+
+Training Completed.
+Ending experiment number <2>
+
+-------- Experiment (3 of 10) ---------
+Name: bridge_5action_Pmax0.33_CThesisDecreasing_PriorMedi_experiment3
+
+Saving breakpoint @ experiment number <3> | run <100>
+
+Saving breakpoint @ experiment number <3> | run <200>
+
+Saving breakpoint @ experiment number <3> | run <300>
+
+Saving breakpoint @ experiment number <3> | run <400>
+
+Saving breakpoint @ experiment number <3> | run <500>
+Time Elapsed: 819.35 secs (13.66 mins)
+Number of Successes: 449
+Number of Failures: 34
+
+Training Completed.
+Ending experiment number <3>
+
+-------- Experiment (4 of 10) ---------
+Name: bridge_5action_Pmax0.33_CThesisDecreasing_PriorMedi_experiment4
+
+Saving breakpoint @ experiment number <4> | run <100>
+
+Saving breakpoint @ experiment number <4> | run <200>
+
+Saving breakpoint @ experiment number <4> | run <300>
+
+Saving breakpoint @ experiment number <4> | run <400>
+
+Saving breakpoint @ experiment number <4> | run <500>
+Time Elapsed: 1107.18 secs (18.45 mins)
+Number of Successes: 419
+Number of Failures: 28
+
+Training Completed.
+Ending experiment number <4>
+
+-------- Experiment (5 of 10) ---------
+Name: bridge_5action_Pmax0.33_CThesisDecreasing_PriorMedi_experiment5
+
+Saving breakpoint @ experiment number <5> | run <100>
+
+Saving breakpoint @ experiment number <5> | run <200>
+
+Saving breakpoint @ experiment number <5> | run <300>
+
+Saving breakpoint @ experiment number <5> | run <400>
+
+Saving breakpoint @ experiment number <5> | run <500>
+Time Elapsed: 1034.16 secs (17.24 mins)
+Number of Successes: 423
+Number of Failures: 30
+
+Training Completed.
+Ending experiment number <5>
+
+-------- Experiment (6 of 10) ---------
+Name: bridge_5action_Pmax0.33_CThesisDecreasing_PriorMedi_experiment6
+
+Saving breakpoint @ experiment number <6> | run <100>
+
+Saving breakpoint @ experiment number <6> | run <200>
+
+Saving breakpoint @ experiment number <6> | run <300>
+
+Saving breakpoint @ experiment number <6> | run <400>
+
+Saving breakpoint @ experiment number <6> | run <500>
+Time Elapsed: 736.06 secs (12.27 mins)
+Number of Successes: 452
+Number of Failures: 26
+
+Training Completed.
+Ending experiment number <6>
+
+-------- Experiment (7 of 10) ---------
+Name: bridge_5action_Pmax0.33_CThesisDecreasing_PriorMedi_experiment7
+
+Saving breakpoint @ experiment number <7> | run <100>
+
+Saving breakpoint @ experiment number <7> | run <200>
+
+Saving breakpoint @ experiment number <7> | run <300>
+
+Saving breakpoint @ experiment number <7> | run <400>
+
+Saving breakpoint @ experiment number <7> | run <500>
+Time Elapsed: 1169.09 secs (19.48 mins)
+Number of Successes: 394
+Number of Failures: 36
+
+Training Completed.
+Ending experiment number <7>
+
+-------- Experiment (8 of 10) ---------
+Name: bridge_5action_Pmax0.33_CThesisDecreasing_PriorMedi_experiment8
+
+Saving breakpoint @ experiment number <8> | run <100>
+
+Saving breakpoint @ experiment number <8> | run <200>
+
+Saving breakpoint @ experiment number <8> | run <300>
+
+Saving breakpoint @ experiment number <8> | run <400>
+
+Saving breakpoint @ experiment number <8> | run <500>
+Time Elapsed: 1062.43 secs (17.71 mins)
+Number of Successes: 409
+Number of Failures: 36
+
+Training Completed.
+Ending experiment number <8>
+
+-------- Experiment (9 of 10) ---------
+Name: bridge_5action_Pmax0.33_CThesisDecreasing_PriorMedi_experiment9
+
+Saving breakpoint @ experiment number <9> | run <100>
+
+Saving breakpoint @ experiment number <9> | run <200>
+
+Saving breakpoint @ experiment number <9> | run <300>
+
+Saving breakpoint @ experiment number <9> | run <400>
+
+Saving breakpoint @ experiment number <9> | run <500>
+Time Elapsed: 743.35 secs (12.39 mins)
+Number of Successes: 444
+Number of Failures: 33
+
+Training Completed.
+Ending experiment number <9>
+
+-------- Experiment (10 of 10) ---------
+Name: bridge_5action_Pmax0.33_CThesisDecreasing_PriorMedi_experiment10
+
+Saving breakpoint @ experiment number <10> | run <100>
+
+Saving breakpoint @ experiment number <10> | run <200>
+
+Saving breakpoint @ experiment number <10> | run <300>
+
+Saving breakpoint @ experiment number <10> | run <400>
+
+Saving breakpoint @ experiment number <10> | run <500>
+Time Elapsed: 1167.88 secs (19.46 mins)
+Number of Successes: 416
+Number of Failures: 30
+
+Training Completed.
+Ending experiment number <10>
